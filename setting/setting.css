@@ -19,25 +19,3 @@ body::-webkit-scrollbar-track {
     background   : #5f5f5f;
 }
 
-/* 主页面控制按钮 */
-#theme-btn{
-    color:white;
-}
-/* 鼠标悬浮在主页面控制按钮 */
-#theme-btn:hover{
-    color:#e6e6e6;
-}
-
-/* 主题展示图片 */
-.theme-pic{
-    border:1px white solid;  /*边框*/
-}
-/* 主题展示图片文字 */
-.theme-text{
-    color:rgba(0, 0, 0, 0);
-}
-/* 主题文字出现 */
-.theme-text:hover{
-    background-color:rgba(0,0,0,.6);
-    color:white;
-}
